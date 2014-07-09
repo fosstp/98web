@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! 1.5 - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="http://jmweb.nksh.tp.edu.tw/~free/index.php" xml:lang="zh-tw">
+	<title type="text">校園自由軟體</title>
+	<subtitle type="text">Joomla! - 動態的入口網站架設引擎及內容管理系統</subtitle>
+	<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=category&amp;id=1&amp;Itemid=15"/>
+	<id>/~free/index.php?option=com_weblinks&amp;view=category&amp;id=1&amp;Itemid=15</id>
+	<updated>2014-07-09T15:02:01Z</updated>
+	<generator uri="http://joomla.org" version="1.5">Joomla! 1.5 - Open Source Content Management</generator>
+<link rel="self" type="application/atom+xml" href="/~free/" />
+	<entry>
+		<title>OpenOffice.org (辦公室軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=1&amp;Itemid=15"/>
+		<published>2009-03-17T03:35:38Z</published>
+		<updated>2009-03-17T03:35:38Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=1&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>Firefox (瀏覽器)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=2&amp;Itemid=15"/>
+		<published>2009-03-17T03:36:03Z</published>
+		<updated>2009-03-17T03:36:03Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=2&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>7-Zip (壓縮軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=3&amp;Itemid=15"/>
+		<published>2009-03-17T03:36:21Z</published>
+		<updated>2009-03-17T03:36:21Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=3&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>GIMP (點陣式繪圖軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=4&amp;Itemid=15"/>
+		<published>2009-03-17T03:36:38Z</published>
+		<updated>2009-03-17T03:36:38Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=4&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>Inkscape (向量式繪圖軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=5&amp;Itemid=15"/>
+		<published>2009-03-17T03:37:05Z</published>
+		<updated>2009-03-17T03:37:05Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=5&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>NVU (網頁製作軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=6&amp;Itemid=15"/>
+		<published>2009-03-17T03:37:29Z</published>
+		<updated>2009-03-17T03:37:29Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=6&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>Audacity (音效編輯軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=7&amp;Itemid=15"/>
+		<published>2009-03-17T03:38:03Z</published>
+		<updated>2009-03-17T03:38:03Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=7&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>Free Mind (心智圖軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=8&amp;Itemid=15"/>
+		<published>2009-03-17T03:38:32Z</published>
+		<updated>2009-03-17T03:38:32Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=8&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>FileZilla (上傳軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=9&amp;Itemid=15"/>
+		<published>2009-03-17T03:39:02Z</published>
+		<updated>2009-03-17T03:39:02Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=9&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>StarDict (翻譯軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=10&amp;Itemid=15"/>
+		<published>2009-03-17T03:39:37Z</published>
+		<updated>2009-03-17T03:39:37Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=10&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>Dia (流程圖軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=11&amp;Itemid=15"/>
+		<published>2009-03-17T03:40:00Z</published>
+		<updated>2009-03-17T03:40:00Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=11&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>GanttProject (甘特圖軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=12&amp;Itemid=15"/>
+		<published>2009-03-17T03:40:34Z</published>
+		<updated>2009-03-17T03:40:34Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=12&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>PhotoCap4 (影像編修軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=13&amp;Itemid=15"/>
+		<published>2009-03-17T03:41:18Z</published>
+		<updated>2009-03-17T03:41:18Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=13&amp;amp;Itemid=15</id>
+	</entry>
+	<entry>
+		<title>Thunderbird (電子郵件管理軟體)</title>
+		<link rel="alternate" type="text/html" href="/~free/index.php?option=com_weblinks&amp;view=weblink&amp;id=14&amp;Itemid=15"/>
+		<published>2009-03-17T03:42:43Z</published>
+		<updated>2009-03-17T03:42:43Z</updated>
+		<id>/~free/index.php?option=com_weblinks&amp;amp;view=weblink&amp;amp;id=14&amp;amp;Itemid=15</id>
+	</entry>
+</feed>
